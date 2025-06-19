@@ -2,7 +2,7 @@
 
 Fraudulent credit card transactions are a serious issue for financial institutions and customers alike. This project aims to build a robust fraud detection system using **LightGBM**, with thoughtful feature transformations, class imbalance strategies, and metric-based threshold tuning for optimal fraud capture.
 
-🔗 **Kaggle Notebook:** [View Full Project Here](https://www.kaggle.com/code/khwaishsaxena/credit-card-fraud-detection)
+ **Kaggle Notebook:** [View Full Project Here](https://www.kaggle.com/code/khwaishsaxena/credit-card-fraud-detection)
 
 ---
 
@@ -105,7 +105,7 @@ Credit card fraud data is rare, highly imbalanced, and sensitive. Detecting frau
 
 ```bash
 # Step 1: Clone the repo
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/KhwaishSaxena/Credit-Card-Fraud-Detection
 cd credit-card-fraud-detection
 
 # Step 2: Run the Jupyter Notebook
